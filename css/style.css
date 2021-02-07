@@ -885,8 +885,7 @@ list-style: none;
 .footer_bottom p{
     font-size: 13px;
     font-weight: 400;
-    font-family: 'Open Sans', sans-serif;
-    
+    font-family: 'Open Sans', sans-serif; 
 }
 .footer_bottom a{
     color: #5bc5f4;
